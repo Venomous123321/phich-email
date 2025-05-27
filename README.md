@@ -1,23 +1,33 @@
 # phich-email
 
-Subject: Urgent: Claim Your Reward Now!
+# phishing_email_check
 
-From: rewards@tonclaimaward.sbs
-To: momoxew381@betzenn.com
+## tools used :-
+## 1.mxtoolbox.com
+## 2.phishtank.com
+## 3.urlscan.io
 
-Dear User,
+## Phishing Email Analysis
 
-Congratulations! You have been selected to receive a reward of ₹10,000 from our monthly giveaway campaign.
+Suspicious Domain: tonclaimaward.sbs
 
-To claim your prize, please click the secure link below and enter your details:
+### 1. MX Lookup:
+- No valid mail exchange records detected.
+- Likely spoofed or not configured properly.
 
-http://tonclaimaward.sbs/claim-now
+### 2. HTTP Lookup:
+- Server responds with status 200 OK
+- Hosted via Cloudflare
+- Active and serving content (content type: text/html)
 
-Please note: This offer is valid for the next 24 hours only. If you fail to respond, your reward will be cancelled.
+### 3. Phishing Indicators:
+- Domain looks fake/untrustworthy.
+- No known reputation.
+- Common phishing trick: use of urgent or reward-based names like "claimaward".
+- Spoofed sender likely used this domain.
 
-Act fast and claim your money now!
-
-Sincerely,  
-TonClaim Award Team
-
-[Attachment:phish_page ]
+### Conclusion:
+The domain appears suspicious due to:
+- Lack of MX records
+- Unclear or deceptive purpose
+- Likely used in a phishing email campaign
