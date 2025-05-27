@@ -1,1 +1,23 @@
 # phich-email
+
+Subject: Urgent: Claim Your Reward Now!
+
+From: rewards@tonclaimaward.sbs
+To: momoxew381@betzenn.com
+
+Dear User,
+
+Congratulations! You have been selected to receive a reward of ₹10,000 from our monthly giveaway campaign.
+
+To claim your prize, please click the secure link below and enter your details:
+
+http://tonclaimaward.sbs/claim-now
+
+Please note: This offer is valid for the next 24 hours only. If you fail to respond, your reward will be cancelled.
+
+Act fast and claim your money now!
+
+Sincerely,  
+TonClaim Award Team
+
+[Attachment:phish_page ]
