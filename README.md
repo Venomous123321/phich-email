@@ -1,5 +1,3 @@
-# phich-email
-
 # phishing_email_check
 
 ## tools used :-
